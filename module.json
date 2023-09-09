@@ -37,8 +37,8 @@
     "maximum": "11"
   },
   "url": "https://github.com/herveDarritchon/fvtt-EasyTable",
-  "manifest": "https://raw.githubusercontent.com/herveDarritchon/fvtt-EasyTable/master/module.json",
-  "download": "https://github.com/herveDarritchon/fvtt-EasyTable/releases/download/latest/easytable-release.zip",
+  "manifest": "https://raw.githubusercontent.com/spaceman023/fvtt-EasyTable/master/module.json",
+  "download": "https://github.com/spaceman023/fvtt-EasyTable/releases/download/latest/easytable-release.zip",
   "manifestPlusVersion": "1.0.0",
   "media": [
     {
